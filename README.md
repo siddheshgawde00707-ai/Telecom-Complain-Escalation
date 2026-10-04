@@ -1,6 +1,9 @@
 # Telecom-Complain-Escalation
 Built a Decision Tree classification model to analyze telecom customer complaints and predict complaint status. Performed data preprocessing, exploratory data analysis, categorical encoding, model training, and evaluation using Python and Scikit-learn.
 
+<img width="529" height="362" alt="Screenshot 2026-10-04 124217" src="https://github.com/user-attachments/assets/44522474-c75c-4ba9-a7b3-67dd4c9709fd" />
+
+
 
 1. **Project Objective** – Built a machine learning model to analyze telecom customer complaints and classify their complaint status.
 
